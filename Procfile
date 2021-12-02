@@ -1,1 +1,1 @@
-web: java -jar $JAVA_OPTS -Dserver.port=$PORT -cp target/classes:target/dependency/* target/Spare-0.0.1-SNAPSHOT $PORT
+web: java $JAVA_OPTS -Dserver.port=$PORT -cp target/classes:target/dependency/* target/classes/app/Aplicacao $PORT
