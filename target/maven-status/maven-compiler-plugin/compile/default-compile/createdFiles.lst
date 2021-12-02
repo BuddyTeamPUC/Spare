@@ -1,0 +1,14 @@
+model\meta.class
+service\MetaService.class
+DAO\DAOOperacao.class
+service\UsuarioService.class
+service\PacoteAssinaturaService.class
+model\operacao.class
+DAO\DAOUsuarios.class
+service\OperacaoService.class
+app\Aplicacao.class
+DAO\Autores.class
+model\pacoteassinatura.class
+model\usuarios.class
+DAO\DAOMeta.class
+DAO\DAOPacoteAssinatura.class
